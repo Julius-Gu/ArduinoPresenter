@@ -17,6 +17,15 @@ Rubberduckey like device to impress your peers in class
 - 1x 3mm LED in your favorite color with the corresponding resistor https://www.amazon.com/EDGELEC-200pcs-Emitting-Assorted-Resistors/dp/B0785DLY5T/ref=sr_1_5?dchild=1&keywords=3mm+LED&qid=1619896683&sr=8-5
 
 ## Required tools:
-- Computer with python and the arduino IDE installed
+- Computer with python and the Arduino Desktop IDE installed
+  https://www.python.org/downloads/  https://www.arduino.cc/en/Guide
 - Soldering iron
 - Hot Glue gun to insulate to bottom of the PCB
+
+## instructions:
+### 1. install the libraries
+open the arduino IDE, click `tools`>`Manage Libraries`, wait and type `Keyboard` into the Filter and install it.
+![image](https://user-images.githubusercontent.com/57110140/116792952-19514300-aac4-11eb-9866-0241af467734.png)
+### 2. clone this repository
+Download the source as zip or copy+paste the clone command into your terminal
+![image](https://user-images.githubusercontent.com/57110140/116793127-160a8700-aac5-11eb-820c-0fa1dddc15c7.png)
