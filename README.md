@@ -1,6 +1,10 @@
 # ArduinoPresenter
 Rubberduckey like device to impress your peers in class
 
+## disclaimer
+1) This project makes use of the windows alt-codes and will thus only work if the pc on which you will present runs MS Windows
+   https://www.alt-codes.net/
+2) Currently, only the German and English Keyboard Layouts are supported, feel free to commit other layouts
 
 ## Part list:
 **the links provided here are from amazon since it is available pretty much everywhere. Please consider buying the parts from a local retailer instead if possible.**
