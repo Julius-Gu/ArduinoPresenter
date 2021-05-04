@@ -1,4 +1,4 @@
-# ArduinoPresenter
+# ArduinoPresenter (WIP)
 Rubberduckey like device to impress your peers in class
 
 ## disclaimer
